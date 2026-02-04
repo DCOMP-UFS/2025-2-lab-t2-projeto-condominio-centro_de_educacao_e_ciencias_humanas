@@ -1,6 +1,22 @@
-# 2025-2-lab-t2-projeto-condominio-centro_de_educacao_e_ciencias_humanas
+# Projeto Condomínio - Centro de Educação e Ciências Humanas
 
-Coordenador do Projeto: Alan Jônatas de Oliveira Gama.
-Assistente de Atas de Compras: Luan Meireles Pinheiro Guimarães
-Contador/Tesoureiro: Wagner Mota Sobrinho
-Membros Ativos: Henrick Cardoso dos Santos e Eduardo Ramos Gomes
+## 📋 Sobre o Projeto
+Projeto desenvolvido para a disciplina de Laboratório T2 (2025.2) do Departamento de Computação da UFS.
+
+## 👥 Equipe
+
+### Coordenação
+- **Coordenador do Projeto:** Alan Jônatas de Oliveira Gama
+
+### Membros da Equipe
+- **Assistente de Atas de Compras:** Luan Meireles Pinheiro Guimarães
+- **Contador/Tesoureiro:** Wagner Mota Sobrinho
+- **Membros Ativos:** 
+  - Henrick Cardoso dos Santos
+  - Eduardo Ramos Gomes
+
+## 🚀 Como Executar
+*Instruções a serem adicionadas*
+
+## 📝 Licença
+*Informações de licença a serem adicionadas*
